@@ -32,6 +32,7 @@ test4
 test5
 test6
 pr-trigger-1
+pr-trigger-2
 ## Prerequisites
 
 * Comfortable running commands in the terminal
