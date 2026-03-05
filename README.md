@@ -37,6 +37,7 @@ pr-trigger-3
 pr-trigger-4
 pr-trigger-5
 pr-trigger-6
+pr-trigger-7
 ## Prerequisites
 
 * Comfortable running commands in the terminal
