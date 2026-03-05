@@ -33,6 +33,7 @@ test5
 test6
 test7
 test8
+test9
 ## Prerequisites
 
 * Comfortable running commands in the terminal
